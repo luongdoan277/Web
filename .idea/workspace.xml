@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ef17216-e6a6-4cb7-8095-dc12bc48ba8a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/AddToCart.aspx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AddToCart.aspx.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AddToCart.aspx.designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logic/ShoppingCartActions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/CartItem.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingCart.aspx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingCart.aspx.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShoppingCart.aspx.designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/WebApplication/config/applicationhost.config" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/WebApplication/config/applicationhost.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/WebApplication/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/WebApplication/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App_Data/WingtipToys.mdf" beforeDir="false" afterPath="$PROJECT_DIR$/App_Data/WingtipToys.mdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App_Data/WingtipToys_log.ldf" beforeDir="false" afterPath="$PROJECT_DIR$/App_Data/WingtipToys_log.ldf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App_Data/aspnet-WebApplication-20200922021304.mdf" beforeDir="false" afterPath="$PROJECT_DIR$/App_Data/aspnet-WebApplication-20200922021304.mdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App_Data/aspnet-WebApplication-20200922021304_log.ldf" beforeDir="false" afterPath="$PROJECT_DIR$/App_Data/aspnet-WebApplication-20200922021304_log.ldf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App_Data/webapplication.mdf" beforeDir="false" afterPath="$PROJECT_DIR$/App_Data/webapplication.mdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App_Data/webapplication_log.ldf" beforeDir="false" afterPath="$PROJECT_DIR$/App_Data/webapplication_log.ldf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/ProductContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/ProductContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductList.aspx" beforeDir="false" afterPath="$PROJECT_DIR$/ProductList.aspx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Site.Master" beforeDir="false" afterPath="$PROJECT_DIR$/Site.Master" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Site.Master.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Site.Master.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Site.Master.designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Site.Master.designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web.config" beforeDir="false" afterPath="$PROJECT_DIR$/Web.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication.sln" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/WebApplication.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/WebApplication.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/WebApplication.dll.config" beforeDir="false" afterPath="$PROJECT_DIR$/bin/WebApplication.dll.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/WebApplication.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/WebApplication.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/WebApplication.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/WebApplication.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/WebApplication.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/WebApplication.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/WebApplication.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/WebApplication.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/WebApplication.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/WebApplication.pdb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hrTF8rklM03ZefOnuhPCKnfaMr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ef17216-e6a6-4cb7-8095-dc12bc48ba8a" name="Default Changelist" comment="" />
+      <created>1600768104768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600768104768</updated>
+      <workItem from="1600768105837" duration="246000" />
+      <workItem from="1600768922353" duration="3000" />
+      <workItem from="1600956123759" duration="1666000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="823" y="423" key="Github.ShareDialog" timestamp="1600768275270">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="823" y="423" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1600768275270" />
+    <state x="-1253" y="124" width="585" height="801" key="find.popup" timestamp="1600998810993">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1253" y="124" width="585" height="801" key="find.popup/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1600998810993" />
+    <state x="1240" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600768253998">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1240" y="426" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1600768253997" />
+  </component>
+</project>
